@@ -35,7 +35,7 @@ We encourage you to cite our works if you have used our datasets.
 (1) Xiangyu Ke, Arijit Khan, and Gao Cong. Finding Seeds and Relevant Tags Jointly: For Targeted Influence Maximization in Social Networks. In SIGMOD 2018.
 
 BibTeX  
-@article{KKC18,   
+@inproceedings{KKC18,   
   title={Finding Seeds and Relevant Tags Jointly: For Targeted Influence Maximization in Social Networks},   
   author={Ke, Xiangyu and Khan, Arijit and Cong, Gao},  
   booktitle={Proceedings of the 2018 International Conference on Management of Data},  
