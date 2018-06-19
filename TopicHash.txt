@@ -1,0 +1,230 @@
+0 : software-defined network;software-defined networks;software-defined networking;software-defined networked
+1 : distribution network;distribution networks;distribution networking;distribution networked
+2 : neural network;neural networks;neural networking;neural networked
+3 : cellular network;cellular networks;cellular networking;cellular networked
+4 : ad-hoc network;ad-hoc networks;ad-hoc networking;ad-hoc networked
+5 : hoc network;hoc networks;hoc networking;hoc networked
+6 : dynamic network;dynamic networks;dynamic networking;dynamic networked
+7 : information network;information networks;information networking;information networked
+8 : overlay network;overlay networks;overlay networking;overlay networked
+9 : area network;area networks;area networking;area networked
+10 : mobile network;mobile networks;mobile networking;mobile networked
+11 : Bayesian network;Bayesian networks;Bayesian networking;Bayesian networked
+12 : peer-to-peer network;peer-to-peer networks;peer-to-peer networking;peer-to-peer networked
+13 : complex network;complex networks;complex networking;complex networked
+14 : wireless network;wireless networks;wireless networking;wireless networked
+15 : social network;social networks;social networking;social networked
+16 : vehicular network;vehicular networks;vehicular networking;vehicular networked
+17 : mesh network;mesh networks;mesh networking;mesh networked
+18 : center network;center networks;center networking;center networked
+19 : software system;software systems
+20 : real-time system;real-time systems
+21 : dynamical system;dynamical systems
+22 : embedded system;embedded systems
+23 : memory system;memory systems
+24 : operating system;operating systems
+25 : computing system;computing systems
+26 : retrieval system;retrieval systems
+27 : management system;management systems
+28 : information system;information systems
+29 : recommendation system;recommendation systems;recommender system;recommender systems
+30 : recognition system;recognition systems
+31 : database system;database systems
+32 : control system;control systems
+33 : linear system;linear systems
+34 : detection system;detection systems
+35 : nonlinear system;nonlinear systems
+36 : storage system;storage systems
+37 : distributed system;distributed systems
+38 : mobile application;mobile applications
+39 : multimedia application;multimedia applications
+40 : web application;web applications
+41 : learning approach;learning approachs;learning approaches;learning approaching;learning approached
+42 : query process;query processes;query processing;query processed
+43 : image process;image processes;image processing;image processed
+44 : signal process;signal processes;signal processing;signal processed
+45 : Gaussian process;Gaussian processes;Gaussian processing;Gaussian processed
+46 : reinforcement learn;reinforcement learns;reinforcement learning;reinforcement learned
+47 : machine learn;machine learns;machine learning;machine learned
+48 : active learn;active learns;active learning;active learned
+49 : metric learn;metric learns;metric learning;metric learned
+50 : web search;web searches;web searching;web searched
+51 : similarity search;similarity searches;similarity searching;similarity searched
+52 : image search;image searches;image searching;image searched
+53 : keyword search;keyword searches;keyword searching;keyword searched
+54 : detection bas;detection base;detection based
+55 : indexing bas;indexing base;indexing based
+56 : recognition bas;recognition base;recognition based
+57 : graph bas;graph base;graph based
+58 : knowledge base;knowledge bases
+59 : probabilistic model;probabilistic models;probabilistic modeling;probabilistic modeled
+60 : topic model;topic models;topic modeling;topic modeled
+61 : Markov model;Markov models;Markov modeling;Markov modeled
+62 : mixture model;mixture models;mixture modeling;mixture modeled
+63 : 3D model;3D models;3D modeling;3D modeled
+64 : language model;language models;language modeling;language modeled
+65 : clustering algorithm;clustering algorithms
+66 : scheduling algorithm;scheduling algorithms
+67 : approximation algorithm;approximation algorithms
+68 : learning algorithm;learning algorithms
+69 : genetic algorithm;genetic algorithms
+70 : routing algorithm;routing algorithms
+71 : data min;data mining;data mined
+72 : data analysi;data analysis;data analytics
+73 : data structure;data structures
+74 : data management;data managements
+75 : data stream;data streams;data streaming;data streamed
+76 : comparative study;comparative studying
+77 : empirical study;empirical studying
+78 : case study;case studying
+79 : timing analysi;timing analysis
+80 : performance analysi;performance analysis
+81 : static analysi;static analysis
+82 : intrusion detection;intrusion detections
+83 : anomaly detection;anomaly detections
+84 : virtual machine;virtual machines
+85 : vector machine;vector machines
+86 : state machine;state machines
+87 : rate control;rate controls;rate controling
+88 : access control;access controls;access controling
+89 : congestion control;congestion controls;congestion controling
+90 : power control;power controls;power controling
+91 : source code;source codes
+92 : image coding
+93 : video coding
+94 : large graph;large graphs;large graphes;large graphing
+95 : planar graph;planar graphs;planar graphes;planar graphing
+96 : adaptive filter;adaptive filters;adaptive filtering;adaptive filtered
+97 : particle filter;particle filters;particle filtering;particle filtered
+98 : digital filter;digital filters;digital filtering;digital filtered
+99 : FIR filter;FIR filters;FIR filtering;FIR filtered
+100 : collaborative filter;collaborative filters;collaborative filtering;collaborative filtered
+101 : routing protocol;routing protocols;routing protocoles
+102 : pose estimation;pose estimations
+103 : channel estimation;channel estimations
+104 : motion estimation;motion estimations
+105 : performance evaluation;performance evaluations
+106 : optical flow;optical flows;optical flowing
+107 : information flow;information flows;information flowing
+108 : VLSI implementation;VLSI implementations
+109 : FPGA implementation;FPGA implementations
+110 : power management;power managements
+111 : memory management;memory managements
+112 : energy management;energy managements
+113 : face recognition;face recognitions
+114 : speech recognition;speech recognitions
+115 : virtual environment;virtual environments
+116 : learning environment;learning environments
+117 : programming language;programming languages
+118 : natural language;natural languages
+119 : VLSI design;VLSI designs;VLSI designing;VLSI designed
+120 : VLSI architecture;VLSI architectures
+121 : VLSI circuit;VLSI circuits
+122 : sequential circuit;sequential circuits
+123 : integrated circuit;integrated circuits
+124 : digital circuit;digital circuits
+125 : analog circuit;analog circuits
+126 : semantic web;semantic webs;semantic webes
+127 : image sensor;image sensors
+128 : image sequence;image sequences
+129 : image annotation;image annotations
+130 : image retrieval;image retrievals
+131 : web image;web images
+132 : web site;web sites
+133 : web service;web services
+134 : information retrieval;information retrievals
+135 : information extraction;information extractions
+136 : computer graphic;computer graphics;computer 
+137 : linear programming
+138 : high-level synthesis;high-level synthesising
+139 : automatic generation;automatic generations
+140 : sparse representation;sparse representations
+141 : global rout;global routs;global routing;global routings;global routed
+142 : circuit simulation;circuit simulations
+143 : wireless communication;wireless communications
+144 : software engineer;software engineers;software engineering;software engineered
+145 : gene expression
+146 : user service;user services
+147 : 3D reconstruction;3D reconstructions
+148 : human action;human actions
+149 : decision tree;decision trees
+150 : power amplifier;power amplifiers
+151 : dynamic programming
+152 : A/D converter;A/D converters
+153 : fading channel;fading channels
+154 : moving object;moving objects
+155 : real time;real times
+156 : model check;model checks;model checking;model checked
+157 : DC-DC converter;DC-DC converters
+158 : online social
+159 : time series
+160 : software development;software developments;software 
+161 : noise reduction;noise reductions
+162 : light field;light fields
+163 : lower bound;lower bounds;lower bounding;lower bounded
+164 : design methodology
+165 : low voltage;low voltages
+166 : low complexity
+167 : 3D object;3D objects
+168 : recurrent neural
+169 : association rule;association rules
+170 : fading channel;fading channels;fading channeling
+171 : analog-to-digital converter;analog-to-digital converters
+172 : shared memory;shared 
+173 : wireless sensor;wireless sensors
+174 : feature selection;feature selections
+175 : software architecture;software architectures
+176 : transfer function;transfer functions;transfer functioning;transfer 
+177 : shortest path;shortest paths
+178 : process variation;process variations
+179 : user interface;user interfaces
+180 : social media
+181 : cloud computing
+182 : random field;random fields
+183 : logic synthesis;logic synthesising
+184 : standard cell;standard cells
+185 : pattern match;pattern matches;pattern matching;pattern matchings;pattern matched
+186 : differential equation;differential equations
+187 : scalable video;scalable videos
+188 : mobile device;mobile devices
+189 : transactional memory
+190 : text classification;text classifications
+191 : logic synthesis
+192 : cognitive radio;cognitive radios
+193 : CMOS
+194 : motion;motions;motioning
+195 : deep
+196 : regression;regressions
+197 : unsupervised
+198 : polynomial;polynomials
+199 : proof;proofs
+200 : quantum
+201 : algebraic
+202 : algebra;algebras
+203 : theorem;theorems
+204 : differential;differentials
+205 : decomposition;decompositions
+206 : compression;compressions;compress;compressing
+207 : render;renders;rendering;renderings;rendered
+208 : protein;proteins;protein-protein;
+209 : alignment;alignments
+210 : phylogenetic
+211 : microarray;microarrays
+212 : haplotype;haplotypes;peptide;peptides
+213 : delay;delays;delaying;delayed
+214 : cache;caches
+215 : clock;clocks;clocking;clocked
+216 : fpga
+217 : interconnect;interconnects;interconnecting;interconnected
+218 : on-chip
+219 : relational
+220 : xml
+221 : join;joins;joining;joined
+222 : association;associations
+223 : ranking;rankings
+224 : schema;schemas
+225 : transaction;transactions
+226 : java
+227 : object-oriented
+228 : execution;executions;excuting
+229 : multicast;multicasts;multicasting
