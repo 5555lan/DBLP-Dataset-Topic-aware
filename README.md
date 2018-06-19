@@ -34,7 +34,7 @@ We encourage you to cite our works if you have used our datasets.
 
 (1) Xiangyu Ke, Arijit Khan, and Gao Cong. Finding Seeds and Relevant Tags Jointly: For Targeted Influence Maximization in Social Networks. In SIGMOD 2018.
 
-BibTeX
+BibTeX  
 @article{KKC18,   
   title={Finding Seeds and Relevant Tags Jointly: For Targeted Influence Maximization in Social Networks},   
   author={Ke, Xiangyu and Khan, Arijit and Cong, Gao},  
@@ -48,7 +48,7 @@ BibTeX
 
 (2) Arijit Khan, Francesco Bonchi, Francesco Gullo, and Andreas Nufer. Conditional Reliability in Uncertain Graphs. In TKDE 2018.
 
-BibTeX
+BibTeX  
 @article{KBGN18,   
   title={Conditional Reliability in Uncertain Graphs},   
   author={Khan, Arijit and Bonchi, Francesco and Gullo, Francesco and Nufer, Andreas},  
