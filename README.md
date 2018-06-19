@@ -51,7 +51,7 @@ BibTeX
 BibTeX
 @article{KBGN18,   
   title={Conditional Reliability in Uncertain Graphs},   
-  author={Khan, Arijit and Bonchi, Francesco and Gullo, Francesco and Nufer, Andreas},
+  author={Khan, Arijit and Bonchi, Francesco and Gullo, Francesco and Nufer, Andreas},  
   journal={IEEE Transactions on Knowledge and Data Engineering (TKDE)},  
   year={2018},   
   publisher={IEEE}
