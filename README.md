@@ -1,7 +1,9 @@
 # DBLP-Dataset-Topic-aware
 
 Xiangyu KE, Nanyang Technological University
+
 Contact: xiangyu001@e.ntu.edu.sg OR xiangyke@gmail.com
+
 All Rights Reserved
 
 -------------------------------------------------------------------------------------------------------------------------------------------
