@@ -17,11 +17,13 @@ This dataset is based on the well-known DPLP collaboration data (March 31, 2017)
 Format:
 
 (1) DBLP.txt
-	Author1 Author2 Probability1 Tag1 Probability2 Tag2 ... ProbabilityN TagN
+
+Author1 Author2 Probability1 Tag1 Probability2 Tag2 ... ProbabilityN TagN
 
 (2) AuthorHash.txt
-	Index : Author Name
+
+Index : Author Name
 
 (3) TopicHash.txt
-	Index : Topic(s)
 
+Index : Topic(s)
