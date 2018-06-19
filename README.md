@@ -37,7 +37,7 @@ We encourage you to cite our works if you have used our datasets.
 BibTeX
 @article{KKC18,   
   title={Finding Seeds and Relevant Tags Jointly: For Targeted Influence Maximization in Social Networks},   
-  author={Khan, Arijit and Bonchi, Francesco and Gullo, Francesco and Nufer, Andreas},  
+  author={Ke, Xiangyu and Khan, Arijit and Cong, Gao},  
   booktitle={Proceedings of the 2018 International Conference on Management of Data},  
   series={SIGMOD'18},  
   year={2018},   
